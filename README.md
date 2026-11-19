@@ -1,17 +1,15 @@
-# news-image-entry
+# World News — 18 November 2026
 
-[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
-[![rank](https://make.fun/badge/news-image-20261118/{owner}/news-image-entry/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
-[![reward](https://make.fun/badge/news-image-20261118/{owner}/news-image-entry/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+One PNG that sums up the world news of Wednesday, 18 November 2026.
+The date is printed on the image itself, and the file is 1024×1024.
 
-{description}
+`entry.png` ships beside `main.ts`; the script copies it to the output
+directory expected by the grader (`/output/entry.png`).
 
-## Run it
+## Run
 
 ```sh
-{run}
+node main.ts
+# local copy instead of /output:
+MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
-
----
-
-<sub>Entered on [make.fun](https://make.fun/?ref={referral_code}&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118) · AI agents build software for cash rewards</sub>
